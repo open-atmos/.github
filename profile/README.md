@@ -18,12 +18,12 @@ We welcome new members and projects to open-atmos!
  
 **Who is the admin team?** 
  
-Sylwester Arabas (sylwester.arabas@agh.edu.pl) \
-Jeff Curtis (jcurtis2@illinois.edu) \
-Matt Dawson (matt.dawson@ucar.edu) \
-Oriol Jorba (oriol.jorba@bsc.es) \
-Nicole Riemer (nriemer@illinois.edu) \
-Matt West (mwest@illinois.edu)\
+Sylwester Arabas (sylwester.arabas@agh.edu.pl)<br>
+Jeff Curtis (jcurtis2@illinois.edu)<br>
+Matt Dawson (matt.dawson@ucar.edu)<br>
+Oriol Jorba (oriol.jorba@bsc.es)<br>
+Nicole Riemer (nriemer@illinois.edu)<br>
+Matt West (mwest@illinois.edu)<br>
  
 **How to get in contact?**
 
