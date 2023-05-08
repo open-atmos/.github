@@ -1,6 +1,6 @@
 ## Open Atmos
 
-What is open-atmos?
+**What is open-atmos?**
  
 Open-atmos is a multi-institutional community hub for projects in atmospheric sciences. We support projects that are committed to an open development model. 
 This includes: 
@@ -16,7 +16,7 @@ This includes:
 
 We welcome new members and projects to open-atmos!
  
-Who is the admin team? 
+**Who is the admin team?** 
  
 Sylwester Arabas (sylwester.arabas@agh.edu.pl) \
 Jeff Curtis (jcurtis2@illinois.edu) \
@@ -25,6 +25,6 @@ Oriol Jorba (oriol.jorba@bsc.es) \
 Nicole Riemer (nriemer@illinois.edu) \
 Matt West (mwest@illinois.edu)\
  
-How to get in contact?
+**How to get in contact?**
 
 Email Nicole Riemer (nriemer@illinois.edu)
